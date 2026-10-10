@@ -8,3 +8,5 @@
 | 2026-10-08 | 18:00 | Imagem única (POV + 3 cards de conversa) | Dentistas | POV: it's 10:40 PM, a patient has a toothache and texts 3 dentists. | posts/2026-10-08-pm |
 | 2026-10-09 | 08:00 | Carrossel 6 slides (objeção respondida) | Clínicas de estética | "My clients want a human." Or do they want an answer? | posts/2026-10-09-am |
 | 2026-10-09 | 18:00 | Imagem única (print de conversa comentado com setas) | Restaurantes | Friday, 8 PM. Full house. Who's answering the DMs? | posts/2026-10-09-pm |
+| 2026-10-10 | 08:00 | Carrossel 6 slides (3 erros + solução + CTA) | Academias e personal trainers | You're losing new members in the DMs. | posts/2026-10-10-am |
+| 2026-10-10 | 18:00 | Imagem única (comparativo recepcionista vs. Lexia) | Imobiliárias | Receptionist vs. Lexia. Same job, very different hours. | posts/2026-10-10-pm |
