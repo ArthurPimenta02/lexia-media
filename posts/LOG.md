@@ -10,3 +10,5 @@
 | 2026-10-09 | 18:00 | Imagem única (print de conversa comentado com setas) | Restaurantes | Friday, 8 PM. Full house. Who's answering the DMs? | posts/2026-10-09-pm |
 | 2026-10-10 | 08:00 | Carrossel 6 slides (3 erros + solução + CTA) | Academias e personal trainers | You're losing new members in the DMs. | posts/2026-10-10-am |
 | 2026-10-10 | 18:00 | Imagem única (comparativo recepcionista vs. Lexia) | Imobiliárias | Receptionist vs. Lexia. Same job, very different hours. | posts/2026-10-10-pm |
+| 2026-10-11 | 08:00 | Imagem única (checklist "you need an AI agent if…" + notificações) | Barbearias e salões | Clippers in one hand? Phone in the other. | posts/2026-10-11-am |
+| 2026-10-11 | 18:00 | Imagem única (frase forte + chat + ficha de agendamento) | Pet shops / banho e tosa | Closed on Sunday. Booked anyway. | posts/2026-10-11-pm |
