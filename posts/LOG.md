@@ -14,3 +14,4 @@
 | 2026-10-11 | 18:00 | Imagem única (frase forte + chat + ficha de agendamento) | Pet shops / banho e tosa | Closed on Sunday. Booked anyway. | posts/2026-10-11-pm |
 | 2026-10-12 | 08:00 | Carrossel 6 slides (problema → 3 passos → CTA) | Escolas de idiomas | They asked "How much?" Then they vanished. | posts/2026-10-12-am |
 | 2026-10-12 | 18:00 | Imagem única (mito vs. verdade + chat) | Hotéis e pousadas | Myth: guests don't mind waiting until morning for a reply. | posts/2026-10-12-pm |
+| 2026-11-12 | 21:50 | Carrossel 7 slides (fotos IA, editorial; dor → dado → o que faz → segmentos → passos → CTA) | Brasileiros nos EUA (estética, construção, cleaning) | Seu cliente chamou. Você estava atendendo. | posts/2026-11-12-carrossel-atendimento |
